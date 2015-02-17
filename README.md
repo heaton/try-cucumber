@@ -1,1 +1,3 @@
 # try-cucumber
+
+    cucumber .
